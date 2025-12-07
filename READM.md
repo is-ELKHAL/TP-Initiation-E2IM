@@ -1,6 +1,6 @@
 # 🎓 Projet d'Initiation - E2IM
 
-**Étudiant :** ELKHAL ASAAD / ANASS AIT LHOUSSAINI  
+**Étudiant :** ELKHAL ASAAD / ANASS AIT LHOUSSAINI  / MOURAD MOUNIB
 **Classe :** Informatique et Système d'information - Option Informatique  
 **Université :** Université Privée de Marrakech - E2IM  
 **Année :** 2024-2025
