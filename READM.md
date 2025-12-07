@@ -1,6 +1,6 @@
 # 🎓 Projet d'Initiation - E2IM
 
-**Étudiant :** [Ton Nom]  
+**Étudiant :** ELKHAL ASAAD / ANASS AIT LHOUSSAINI  
 **Classe :** Informatique et Système d'information - Option Informatique  
 **Université :** Université Privée de Marrakech - E2IM  
 **Année :** 2024-2025
